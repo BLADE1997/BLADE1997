@@ -1,6 +1,7 @@
 ### Greetings and Salutations. I am Phillipus Nghipangelwa 👋
-===============
+---------------
 Data Engineer
+
 ===============
 
 I am a Software Engineer with the focus of developing systems to streamline business processes through the Software Development Lifecycle. I am also an aspiring Data Engineer with the aspiration of using my Software Engineering skills to develop tools that will help in gathering and transforming data into useful information that will be used for forecasting and modelling business data which can ensure quality business decision making for future endeavors.
