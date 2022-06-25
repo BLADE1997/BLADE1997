@@ -1,8 +1,8 @@
 ### Greetings and Salutations. I am Phillipus Nghipangelwa 👋
 ---------------
-Data Engineer
+###Data Engineer
 
-===============
+---------------
 
 I am a Software Engineer with the focus of developing systems to streamline business processes through the Software Development Lifecycle. I am also an aspiring Data Engineer with the aspiration of using my Software Engineering skills to develop tools that will help in gathering and transforming data into useful information that will be used for forecasting and modelling business data which can ensure quality business decision making for future endeavors.
 
@@ -19,11 +19,6 @@ src="https://img.shields.io/github/followers/BLADE1997?logo=github&style=for-the
 
 ### Tools and Technologies
 <p align="left">
-<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  
-<a href="https://www.techtarget.com/searchdatamanagement/definition/SQL#:~:text=Structured%20Query%20Language%20(SQL)%20is,on%20the%20data%20in%20them." target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/84894/sql-open-file-format.svg" width="36" height="36" alt="Python" /></a>
-  
-  
-  <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="36" height="36" alt="Python" /></a>
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.techtarget.com/searchdatamanagement/definition/SQL#:~:text=Structured%20Query%20Language%20(SQL)%20is,on%20the%20data%20in%20them." target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/84894/sql-open-file-format.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="36" height="36" alt="Python" /></a>
   
 </p>
