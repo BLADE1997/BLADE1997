@@ -1,16 +1,28 @@
-### Hi there 👋
+### Greetings and Salutations. I am Phillipus Nghipangelwa 👋
+==============================================================
+Data Engineer
+===============
 
-<!--
-**BLADE1997/BLADE1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with the focus of developing systems to streamline business processes through the Software Development Lifecycle. I am also an aspiring Data Engineer with the aspiration of using my Software Engineering skills to develop tools that will help in gathering and transforming data into useful information that will be used for forecasting and modelling business data which can ensure quality business decision making for future endeavors.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌍  Based in Windhoek, Namibia
+- 🌱 I am currently learning the Fundamentals about Data Engineering which includes ETL Pipelines and Datawarehousing.
+- ✉️  You can contact me at [nghipangelwaphillipus@gmail.com](nghipangelwaphillipus@gmail.com)
+
+<a href="https://www.github.com/BLADE1997" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/BLADE1997?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Tools and Technologies
+<p align="left">
+<a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  
+<a href="https://www.techtarget.com/searchdatamanagement/definition/SQL#:~:text=Structured%20Query%20Language%20(SQL)%20is,on%20the%20data%20in%20them." target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/84894/sql-open-file-format.svg" width="36" height="36" alt="Python" /></a>
+  
+  
+  <a href="https://docs.jupyter.org/en/latest/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="36" height="36" alt="Python" /></a>
+  
+</p>
