@@ -1,6 +1,6 @@
 ### Greetings and Salutations. I am Phillipus Nghipangelwa 👋
 ---------------
-### Data Engineer / Sodtware Engineer
+### Data Engineer / Software Engineer
 
 ---------------
 
